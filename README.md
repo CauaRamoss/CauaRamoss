@@ -1,6 +1,6 @@
 ## Cauã Ramos na Área! 🤙
 
-🔭 Estudando HTML e CSS! Futuramente Javascript!
+🔭 Studying to be a Web Developer!
 
 <div>
   <a href="https://github.com/CauaRamoss">
