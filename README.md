@@ -1,6 +1,6 @@
 ## Cauã Ramos na Área! 🤙
 
-🔭 Studying to be a Web Developer!
+🔭 Studying to be a Developer!
 
 <div>
   <a href="https://github.com/CauaRamoss">
