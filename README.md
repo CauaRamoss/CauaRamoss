@@ -1,6 +1,7 @@
-## Cauã Ramos na Área! 🤙
+## Olá, eu sou o Cauã! 🤙
 
-🔭 Studying to be a Developer!
+- 📚 Atualmente cursando análise e desenvolvimento de sistemas, na Estácio
+- 💻 Me aprimorando no Front-end!
 
 <div>
   <a href="https://github.com/CauaRamoss">
