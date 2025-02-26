@@ -22,7 +22,7 @@
   </a> 
 </div>
 
-## Estátisticas:
+## Minhas Estátisticas:
 
 <div>
   <a href="https://github.com/CauaRamoss">
