@@ -3,6 +3,15 @@
 - 📚 Atualmente cursando análise e desenvolvimento de sistemas, na Estácio
 - 💻 Me aprimorando no Front-end!
 
+## Conhecimentos:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+
 <div>
   <a href="https://github.com/CauaRamoss">
     <img height=160 src="https://my-stats-43gk.vercel.app/api?username=cauaramoss&show_icons=true&theme=dark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
@@ -10,12 +19,6 @@
   <a href="https://github.com/CauaRamoss">
     <img height=160 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=cauaramoss&langs_count=8&layout=compact&theme=dark&card_width=150" />
   </a>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ##
