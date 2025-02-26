@@ -26,10 +26,10 @@
 
 <div align="center">
   <a href="https://github.com/CauaRamoss">
-    <img width=40% height="195px" src="https://my-stats-43gk.vercel.app/api?username=cauaramoss&show_icons=true&theme=dark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+    <img width=49% height="195px" src="https://my-stats-43gk.vercel.app/api?username=cauaramoss&show_icons=true&theme=dark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
   </a>
   <a href="https://github.com/CauaRamoss">
-    <img width=34% height="195px" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=cauaramoss&langs_count=8&layout=compact&theme=dark&card_width=150" />
+    <img width=40% height="195px" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=cauaramoss&langs_count=8&layout=compact&theme=dark&card_width=150" />
   </a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cauaramoss&radius=16&theme=react&area=true&order=5&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" height="390" alt="activity-graph graph" /> 
 </div>
