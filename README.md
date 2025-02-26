@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/CauaRamoss">
-    <img width=30% height="195px" src="https://my-stats-43gk.vercel.app/api?username=cauaramoss&show_icons=true&theme=dark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+    <img width=40% height="195px" src="https://my-stats-43gk.vercel.app/api?username=cauaramoss&show_icons=true&theme=dark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
   </a>
   <a href="https://github.com/CauaRamoss">
     <img width=30% height="195px" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=cauaramoss&langs_count=8&layout=compact&theme=dark&card_width=150" />
