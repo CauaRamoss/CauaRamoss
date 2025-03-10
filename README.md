@@ -18,7 +18,7 @@
   </a> 
 </div>
 
-## Minhas Estátisticas:
+## Estátisticas Github:
 
 <div align="center">
   <a href="https://github.com/CauaRamoss">
