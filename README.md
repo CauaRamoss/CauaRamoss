@@ -12,8 +12,8 @@
 ## Contatos:
 
 <div> 
+    <a href="https://www.linkedin.com/in/cauã-ramos-02a078316/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href = "mailto:caua16ramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cauã-ramos-02a078316/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href = "https://www.instagram.com/cauaramos22/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a> 
 </div>
@@ -26,8 +26,4 @@
   </a>
   <a href="https://github.com/CauaRamoss">
     <img width=38% height="195px" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=cauaramoss&langs_count=8&layout=compact&theme=dark&card_width=150" />
-  </a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cauaramoss&radius=16&theme=react&area=true&order=5&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" height="390" alt="activity-graph graph" /> 
 </div>
-
-###
