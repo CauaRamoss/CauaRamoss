@@ -8,7 +8,7 @@
 ## Conhecimentos atuais em:
 
 <div style="display: inline_block"><br>
-  ![HTML](https://img.shields.io./badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+  [HTML](https://img.shields.io./badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io./badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=007FFF)&nbsp;
   ![JavaScript](https://img.shields.io./badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
   ![GitHub](https://img.shields.io./badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
