@@ -7,12 +7,7 @@
 
 ## Conhecimentos atuais em:
 
-<div style="display: inline_block"><br>
-  [HTML](https://img.shields.io./badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io./badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=007FFF)&nbsp;
-  ![JavaScript](https://img.shields.io./badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-  ![GitHub](https://img.shields.io./badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-</div>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Contatos:
 
