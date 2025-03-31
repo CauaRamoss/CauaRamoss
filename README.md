@@ -3,7 +3,7 @@
 ## Sobre mim:
 
 - 📚 Atualmente cursando análise e desenvolvimento de sistemas, na Estácio
-- 💻 Me aprimorando no Front-end!
+- 💻 Me aprimorando no Front-end e Back-end!
 
 ## Conhecimentos atuais em:
 
